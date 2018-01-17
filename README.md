@@ -1,3 +1,4 @@
 # hello-world
 just another repository
-trying new things
+
+trying new things. checking the functionality
